@@ -12,7 +12,7 @@ author: Michał Mojek
 description: Software developer from Warsaw
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/reverie.png
+avatar: https://pbs.twimg.com/profile_images/1073527095123423232/sCOMTfr5_400x400.jpg
 
 #
 # Flags below are optional
@@ -26,6 +26,7 @@ footer-links:
   flickr:
   github: mojek
   instagram: mojek
+  strava: 20975182
   linkedin: mojek
   pinterest:
   rss: rss
@@ -41,7 +42,7 @@ footer-links:
 disqus: 
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: 
+google_analytics: UA-18013743-8
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
