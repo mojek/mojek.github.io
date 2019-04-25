@@ -25,7 +25,7 @@
 	var captureOutboundLink = function (url) {
 		ga('send', 'event', url, 'click', url, {
 			'transport': 'beacon',
-			'hitCallback': function () { document.location = url; }
+			'hitCallback': function () { window.open(url, '_blank'); }
 		});
 	}
 </script>
