@@ -20,11 +20,11 @@ $ make flake8
 PROJECT_DIR_NAME:=management_django_service
 ENTER_DJANGO:=docker-compose exec djangoweb
 DJANGO_USER_UID:=$(shell id -u)
-build: 
+build:
     ## build necessary stuff for our project to run (docker images)
     docker-compose build
 
-run: 
+run:
     ## start containers with docker-compose and attach to logs
     docker-compose up --no-build
 
@@ -32,21 +32,21 @@ rund:
     ## start containers with docker-compose (detached mode)
     docker-compose up --no-build -d
 
-stop: 
+stop:
     ## stop all running containers for this project
     docker-compose stop
 
-enter: 
+enter:
     ## enter the Django container 
     ## (want to play freely with manage.py commands? 
     ## just `make enter` and have fun)
-	$(ENTER_DJANGO) sh
+    $(ENTER_DJANGO) sh
 
 test:
-	$(ENTER_DJANGO) sh -c "python manage.py test && flake8"
+    $(ENTER_DJANGO) sh -c "python manage.py test && flake8"
 
 flake:
-	$(ENTER_DJANGO) flake8
+    $(ENTER_DJANGO) flake8
 
 
 
