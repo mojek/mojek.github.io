@@ -92,4 +92,9 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
+collections_dir: my_collections  
+collections:
+    karate:
+      output: true
+    karate_pozycje:
+      output: true

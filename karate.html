@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<h1>Shinkyokushin karate </h1>
+
+
+<div class="karate">
+
+  <ul>
+    {% for k in site.karate %}
+    <li>
+      <a href="{{ site.baseurl }}{{ k.url }}">{{ k.title }}</a>
+      <br />
+      {% assign categories = k.categories %}
+
+    </li>
+    {% endfor %}
+  </ul>
+
+</div>
+
+<div class="karate">
+  <h2>Pozycje</h2>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/1ZXEpN3Vovs" frameborder="0"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <ul>
+    {% for k in site.karate_pozycje %}
+    <li>
+      <a href="{{ site.baseurl }}{{ k.url }}">{{ k.title }}</a>
+      <br />
+      {% assign categories = k.categories %}
+
+    </li>
+    {% endfor %}
+  </ul>
+
+</div>
