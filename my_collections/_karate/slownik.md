@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Słonik karate
+title: Słownik karate
 categories: [karate]
 ---
 ## Strefy:
