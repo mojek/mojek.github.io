@@ -99,4 +99,6 @@ collections:
     karate_pozycje:
       output: true
     karate_bloki:
-      output: true  
+      output: true
+    karate_uderzenia:
+      output: true    

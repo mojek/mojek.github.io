@@ -52,3 +52,20 @@ layout: default
   </ul>
 
 </div>
+
+<div class="karate">
+  <h2>Uderzenia</h2>
+
+
+  <ul>
+    {% for k in site.karate_uderzenia %}
+    <li>
+      <a href="{{ site.baseurl }}{{ k.url }}">{{ k.title }}</a>
+      <br />
+      {% assign categories = k.categories %}
+
+    </li>
+    {% endfor %}
+  </ul>
+
+</div>

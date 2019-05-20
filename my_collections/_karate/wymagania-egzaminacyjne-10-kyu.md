@@ -27,10 +27,11 @@ categories: [karate]
 
 * Seiken morote gedan barai (kakewake uke)
 * Seiken mae gedan barai
-* Seiken jodan uke
+* [Seiken jodan uke](/karate_bloki/seiken-jodan-uke)
   
 ### Kopnięcia
 
-* Hiza ganmen geri
+* [Hiza ganmen geri](/karate_uderzenia/hiza-ganmen-geri)
 * Kin geri
 
+{% include youtube.html id='IKPqzbANujA' %}
