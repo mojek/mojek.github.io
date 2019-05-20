@@ -98,3 +98,5 @@ collections:
       output: true
     karate_pozycje:
       output: true
+    karate_bloki:
+      output: true  

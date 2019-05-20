@@ -34,5 +34,21 @@ layout: default
     </li>
     {% endfor %}
   </ul>
-  {% include youtube.html id='1ZXEpN3Vovs' %}
+
+</div>
+<div class="karate">
+  <h2>Bloki</h2>
+
+
+  <ul>
+    {% for k in site.karate_bloki %}
+    <li>
+      <a href="{{ site.baseurl }}{{ k.url }}">{{ k.title }}</a>
+      <br />
+      {% assign categories = k.categories %}
+
+    </li>
+    {% endfor %}
+  </ul>
+
 </div>
