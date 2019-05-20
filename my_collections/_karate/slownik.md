@@ -175,41 +175,41 @@ categories: [karate]
 * Morote-Tsuki - pchnięcie podwójne
 * Tobi-Tsuki - pchnięcie z wyskoku
 * Uchi - uderzenia
-* Seiken Ago-Uchi - uderzenie w podbródek pięścią "strzał z bicza"
-* Seiken Mawashi-Uchi - uderzenie okrężne pięścią
-* Uraken Mawashi-Uchi - uderzenie okrężne odwróconą pięścią
-* Uraken Shomen-Uchi - uderzenie w przód odwróconą pięścią
-* Uraken Sayo-Uchi - uderzenie w bok odwróconą pięścią
-* Uraken Hizo-Uchi - uderzenie w żebra odwróconą pięścią
-* Uraken Shita-Uchi - uderzenie w wątrobę odwróconą pięścią
-* Shuto Ganmen-Uchi - uderzenie w skroń zewnętrznym kantem dłoni
-* Shuto Sakotsu-Uchi - uderzenie w obojczyk zewnętrznym kantem dłoni
-* Shuto Sakotsu Uchi Komi - uderzenie w obojczyk frontalne
-* Shuto Hizo-Uchi - uderzenie w żebra zewnętrznym kantem dłoni
-* Hiji Jodan-Ate – uderzenie łokciem w płaszczyźnie poziomej na głowę
-* Hiji Chudan-Ate - uderzenie łokciem w płaszczyźnie poziomej na splot słoneczny
-* Hiji Age-Uchi - uderzenie łokciem w górę
-* Hiji Oroshi-Uchi - uderzenie łokciem w dół
-* Hyori-Uchi - uderzenie góra-dół
-* Kome Komi-Uchi - uderzenie w skroń "pięść-młot"
-* Tettsui-Uchi - uderzenie "pięść-młot"
-* Haito-Uchi - uderzenie wewnętrznym kantem dłoni
-* Koken-Uchi - uderzenie przegubem dłoni
-* Hiraken-Uchi - uderzenie półzaciśniętą pięścią
-* Tobi Hiji-Uchi - uderzenie łokciem z wyskoku.
+  * Seiken Ago-Uchi - uderzenie w podbródek pięścią "strzał z bicza"
+  * Seiken Mawashi-Uchi - uderzenie okrężne pięścią
+  * Uraken Mawashi-Uchi - uderzenie okrężne odwróconą pięścią
+  * Uraken Shomen-Uchi - uderzenie w przód odwróconą pięścią
+  * Uraken Sayo-Uchi - uderzenie w bok odwróconą pięścią
+  * Uraken Hizo-Uchi - uderzenie w żebra odwróconą pięścią
+  * Uraken Shita-Uchi - uderzenie w wątrobę odwróconą pięścią
+  * Shuto Ganmen-Uchi - uderzenie w skroń zewnętrznym kantem dłoni
+  * Shuto Sakotsu-Uchi - uderzenie w obojczyk zewnętrznym kantem dłoni
+  * Shuto Sakotsu Uchi Komi - uderzenie w obojczyk frontalne
+  * Shuto Hizo-Uchi - uderzenie w żebra zewnętrznym kantem dłoni
+  * Hiji Jodan-Ate – uderzenie łokciem w płaszczyźnie poziomej na głowę
+  * Hiji Chudan-Ate - uderzenie łokciem w płaszczyźnie poziomej na splot słoneczny
+  * Hiji Age-Uchi - uderzenie łokciem w górę
+  * Hiji Oroshi-Uchi - uderzenie łokciem w dół
+  * Hyori-Uchi - uderzenie góra-dół
+  * Kome Komi-Uchi - uderzenie w skroń "pięść-młot"
+  * Tettsui-Uchi - uderzenie "pięść-młot"
+  * Haito-Uchi - uderzenie wewnętrznym kantem dłoni
+  * Koken-Uchi - uderzenie przegubem dłoni
+  * Hiraken-Uchi - uderzenie półzaciśniętą pięścią
+  * Tobi Hiji-Uchi - uderzenie łokciem z wyskoku.
 * Uke - bloki
-* Klasyfikacja bloków ręcznych:
-  * a) bloki pięścią (seiken)
-  * b) bloki shuto
-  * c) bloki shotei
-  * d) bloki koken
-  * e) bloki przedramieniem (kote).
-* Klasyfikacja bloków nożnych:
-  * a) bloki udem (kaji-uke)
-  * b) bloki kolanem (hiza-uke)
-  * c) bloki golenią (sune-uke)
-  * d) bloki podbiciem (haisoku-uke)
-  * e) bloki wewnętrzną częścią stopy (teisoku-uke)
+  * Klasyfikacja bloków ręcznych:
+    * a) bloki pięścią (seiken)
+    * b) bloki shuto
+    * c) bloki shotei
+    * d) bloki koken
+    * e) bloki przedramieniem (kote).
+  * Klasyfikacja bloków nożnych:
+    * a) bloki udem (kaji-uke)
+    * b) bloki kolanem (hiza-uke)
+    * c) bloki golenią (sune-uke)
+    * d) bloki podbiciem (haisoku-uke)
+    * e) bloki wewnętrzną częścią stopy (teisoku-uke)
 
 * Seiken Jodan-Uke - blok górny pięścią
 * Seiken Uchi-Uke - blok z wewnątrz pięści
