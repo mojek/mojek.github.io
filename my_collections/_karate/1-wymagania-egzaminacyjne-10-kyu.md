@@ -32,6 +32,6 @@ categories: [karate]
 ### Kopnięcia
 
 * [Hiza ganmen geri](/karate_uderzenia/hiza-ganmen-geri)
-* Kin geri
+* [Kin geri](/karate_uderzenia/kin-geri)
 
 {% include youtube.html id='IKPqzbANujA' %}

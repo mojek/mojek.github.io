@@ -19,6 +19,7 @@ Sabilna mocna postawa wykorzystywana podczas blokowania i atakowania.
 * Stopy rozstawione na szerokość bioder.
 * Ciężar ciała rozłożony 60% na nogę wykroczną i 40% na nogę zakroczną.
 * Przemiszczanie się: biodra na tym samym poziomie podczas ruchu.
+* Noga przednia jest mocno ugięta w kolanie w ten sposób, by nie było możliwości zobaczenia palców swoich stóp
 
 
 
