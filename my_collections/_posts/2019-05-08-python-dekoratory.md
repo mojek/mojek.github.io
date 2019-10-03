@@ -98,4 +98,15 @@ Whee!
 Something is happening after the function is called.
  ```
 
-## 3 Przykłady
+## 3 Wzrór
+import functools
+```python
+def decorator(func):
+    @functools.wraps(func)
+    def wrapper_decorator(*args, **kwargs):
+        # Do something before
+        value = func(*args, **kwargs)
+        # Do something after
+        return value
+    return wrapper_decorator
+```

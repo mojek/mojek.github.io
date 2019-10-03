@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<h1>Python notes</h1>
+
+
+<div class="python">
+
+  <ul>
+    {% for k in site.python %}
+    <li>
+      <a href="{{ site.baseurl }}{{ k.url }}">{{ k.title }}</a>
+      
+      {% assign categories = k.categories %}
+      {% for c in categories %} 
+        <small>{{c}}</small>
+      {% endfor %}
+    </li>
+    {% endfor %}
+  </ul>
+
+</div>
+
+
+
+
+

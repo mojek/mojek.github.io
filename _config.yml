@@ -94,6 +94,7 @@ exclude:
   - CNAME
 collections_dir: my_collections  
 collections:
+    books:
     karate:
       output: true
     karate_pozycje:
@@ -101,4 +102,10 @@ collections:
     karate_bloki:
       output: true
     karate_uderzenia:
-      output: true    
+      output: true
+    python:
+      output: true
+    python_pl:
+      output: true  
+   
+      

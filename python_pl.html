@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<h1>Python notatki</h1>
+
+
+<div class="python">
+
+  <ul>
+    {% for k in site.python_pl %}
+    <li>
+      <a href="{{ site.baseurl }}{{ k.url }}">{{ k.title }}</a>
+      <br />
+      {% assign categories = k.categories %}
+
+    </li>
+    {% endfor %}
+  </ul>
+
+</div>
+
+
+
+
+
